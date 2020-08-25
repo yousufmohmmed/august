@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="table" max_length="40" name="x_snc_august_table" type="collection">
+        <element label="Column1" max_length="40" name="column1" type="string"/>
+    </element>
+</database>

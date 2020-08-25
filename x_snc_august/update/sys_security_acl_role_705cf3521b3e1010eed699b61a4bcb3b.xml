@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:11:01</sys_created_on>
+        <sys_id>705cf3521b3e1010eed699b61a4bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_august_table.x_snc_august.table_user</sys_name>
+        <sys_package display_value="august" source="x_snc_august">bec7779e1bfa1010eed699b61a4bcbd2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="august">bec7779e1bfa1010eed699b61a4bcbd2</sys_scope>
+        <sys_security_acl display_value="x_snc_august_table">f05cf3521b3e1010eed699b61a4bcb38</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_705cf3521b3e1010eed699b61a4bcb3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:11:01</sys_updated_on>
+        <sys_user_role display_value="x_snc_august.table_user" name="x_snc_august.table_user">205cf3521b3e1010eed699b61a4bcb1d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

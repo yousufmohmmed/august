@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>august</name>
+        <order/>
+        <roles>x_snc_august.table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:11:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b05cf3521b3e1010eed699b61a4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>august</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="august" source="x_snc_august">bec7779e1bfa1010eed699b61a4bcbd2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="august">bec7779e1bfa1010eed699b61a4bcbd2</sys_scope>
+        <sys_update_name>sys_ui_application_b05cf3521b3e1010eed699b61a4bcb2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:11:01</sys_updated_on>
+    </sys_ui_application>
+</record_update>
