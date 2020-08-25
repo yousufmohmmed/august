@@ -9,7 +9,7 @@
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model>class</extension_model>
+        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>table</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">d672a9871b021010eed699b61a4bcbe5</super_class>
+        <super_class display_value="Task" name="task">8976b4b4db011010519f62dc139619c4</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

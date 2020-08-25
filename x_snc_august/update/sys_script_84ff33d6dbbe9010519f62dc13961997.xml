@@ -7,18 +7,18 @@
         <action_query>false</action_query>
         <action_update>true</action_update>
         <active>true</active>
-        <add_message>true</add_message>
+        <add_message>false</add_message>
         <advanced>false</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>sc_task</collection>
+        <collection>task</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>Its gone</p>]]></message>
-        <name>br august</name>
+        <message/>
+        <name>br september</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -34,21 +34,21 @@
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-25 18:15:18</sys_created_on>
+        <sys_created_on>2020-08-25 18:27:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>969cf7521b3e1010eed699b61a4bcb7b</sys_id>
+        <sys_id>84ff33d6dbbe9010519f62dc13961997</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>br august</sys_name>
+        <sys_name>br september</sys_name>
         <sys_overrides/>
         <sys_package display_value="august" source="x_snc_august">bec7779e1bfa1010eed699b61a4bcbd2</sys_package>
         <sys_policy/>
         <sys_scope display_value="august">bec7779e1bfa1010eed699b61a4bcbd2</sys_scope>
-        <sys_update_name>sys_script_969cf7521b3e1010eed699b61a4bcb7b</sys_update_name>
+        <sys_update_name>sys_script_84ff33d6dbbe9010519f62dc13961997</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-25 18:15:18</sys_updated_on>
+        <sys_updated_on>2020-08-25 18:27:39</sys_updated_on>
         <template>active=false^EQ</template>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=969cf7521b3e1010eed699b61a4bcb7b"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=84ff33d6dbbe9010519f62dc13961997"/>
 </record_update>
