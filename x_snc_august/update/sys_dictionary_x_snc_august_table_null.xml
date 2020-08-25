@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-25 18:11:02</sys_created_on>
-        <sys_id>1b8f7f96dbbe9010519f62dc13961988</sys_id>
+        <sys_id>c98c4caedbbe9010519f62dc13961992</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_august_table</sys_name>
         <sys_package display_value="august" source="x_snc_august">bec7779e1bfa1010eed699b61a4bcbd2</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="august">bec7779e1bfa1010eed699b61a4bcbd2</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_august_table_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-25 18:25:10</sys_updated_on>
+        <sys_updated_on>2020-08-25 19:21:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
